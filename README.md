@@ -1,7 +1,7 @@
 # Hi, I'm Maimoona Ali 👋
 
 ### 🧬 About Me
-I am a **Bioinformatics Specialist** with 10+ years of experience, currently focused on **Lung Cancer Precision Medicine**. My work bridges the gap between large-scale transcriptomic data and experimental validation.
+Bioinformatics researcher returning to computational oncology research, building on an MS in Bioinformatics (2011) and recent lecturing experience, now focused on RNA-seq and deep learning approaches to lung cancer." It reads as intentional and current rather than trying to paper over the gap.
 
 ### 🚀 Key Research Focus
 * **Transcriptomics:** RNA-seq analysis of EGFR-mutant NSCLC.
