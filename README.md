@@ -14,5 +14,5 @@ I am a **Bioinformatics Specialist** with 10+ years of experience, currently foc
 * **Wet-Lab:** Western Blotting, RT-qPCR, PCR, Cloning.
 
 ### 📬 Connect with Me
-* **LinkedIn:** [Insert your Link]
+* **LinkedIn:** [https://www.linkedin.com/in/maimoona-ali-bioinformatics/]
 * **Email:** alimaimoona37@gmail.com
